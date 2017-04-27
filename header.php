@@ -11,15 +11,14 @@
   <body>
 
 <div id="wrapper">
-  <div class = "text-center col-md-12"><img id ="profilePic" src="img/Profile.jpg" /> </div>
     <div class ="row" id = "theNav">
-    <span class = "col-md-3 text-center"> HOME
+    <span class = "col-md-3 text-center"><a href="index.php"> HOME</a>
     </span>
-    <span class = "col-md-3 text-center"> ABOUT
+    <span class = "col-md-3 text-center"><a href="about.php"> EXPERIENCE</a>
     </span>
-    <span class = "col-md-3 text-center"> MY WORK
+    <span class = "col-md-3 text-center"><a href="mywork.php"> MY WORK</a>
     </span>
-    <span class = "col-md-3 text-center"> CONTACT
+    <span class = "col-md-3 text-center"><a href="contact.php"> CONTACT</a>
     </span>
     </div>
 </div>
