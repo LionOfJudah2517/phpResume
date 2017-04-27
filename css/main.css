@@ -1,0 +1,12 @@
+* {
+  font-family: 'Oswald', sans-serif;
+
+}
+
+#theNav{
+  padding-top: 10%;
+  postion:fixed;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
