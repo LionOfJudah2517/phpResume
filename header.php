@@ -11,6 +11,7 @@
   <body>
 
 <div id="wrapper">
+  <div class = "text-center col-md-12"><img id ="profilePic" src="img/Profile.jpg" /> </div>
     <div class ="row" id = "theNav">
     <span class = "col-md-3 text-center"> HOME
     </span>
