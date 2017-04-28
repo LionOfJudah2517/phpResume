@@ -23,22 +23,34 @@
     </div>
 
     <div class="row">
-    <h3 class ="col-md-4">Work Experience:</h3>
+      <h3 class ="col-md-4">Work Experience:</h3>
     </div>
     <div class = "row">
-    <p class="col-md-12 text-center"><strong>Teen Challenge New England | MAY 2012-CURRENT | RESIDENT LIFE ADMININSTRATOR</strong></p>
+      <p class="col-md-12 text-center"><strong>Teen Challenge New England | MAY 2012-CURRENT | RESIDENT LIFE ADMININSTRATOR</strong></p>
     </div>
     <div class = "row">
-    <ul class="col-md-12 text-center">
-      <li class="">Innovate curriculum designed to cater to individual needs.</li>
-      <li class="">Managing 8 "Resident Life Supervisors" for their local centers.</li>
-      <li class="">Administer meetings, conference calls and gatherings for production.</li>
-      <li class="">Blog relative content regarding addiction and recovery.</li>
-      <li class="">Assist in Web Development of the Corporate and the other 8 centers WordPress sites.</li>
-      <li class="">Contributing author in "Changed Lives" series a published book about our organization and recovery stories.</li>
-      <li class="">Create procedures and policies that improve our admissions processes to produce a better experience for our residents and their families.</li>
-    </ul>
+      <ul class="col-md-12 text-center">
+        <li class="">Innovate curriculum designed to cater to individual needs.</li>
+        <li class="">Managing 8 "Resident Life Supervisors" for their local centers.</li>
+        <li class="">Administer meetings, conference calls and gatherings for production.</li>
+        <li class="">Blog relative content regarding addiction and recovery.</li>
+        <li class="">Assist in Web Development of the Corporate and the other 8 centers WordPress sites.</li>
+        <li class="">Contributing author in "Changed Lives" series a published book about our organization and recovery stories.</li>
+        <li class="">Create procedures and policies that improve our admissions processes to produce a better experience for our residents and their families.</li>
+      </ul>
     </div>
+    <br>
+    <div class = "row">
+      <p class="col-md-12 text-center"><strong>Developed By O'Neil | MARCH 2017-CURRENT | OWNER</strong></p>
+    </div>
+    <div class = "row">
+        <ul class="col-md-12 text-center">
+          <li class="">Develop/implement websites with WordPress.</li>
+          <li class="">Marketing, building, advertising personal brand.</li>
+          <li class="">Administrate paperwork, contracts, deposits, budget, and pricing.</li>
+        </ul>
+    </div>
+    <br>
 
 </div><!-- container -->
 <?php require_once 'footer.php';?>
