@@ -10,6 +10,7 @@
   </head>
   <body>
 
+<p class = "col-md-12 text-center live" ><em>Scott O'Neil's Live Resume</em></p>
 <div id="wrapper">
     <div class ="row" id = "theNav">
     <span class = "col-md-3 text-center"><a href="index.php"> HOME</a>
